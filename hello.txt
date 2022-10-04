@@ -1,3 +1,0 @@
-HELLO TIP
-Hello DevOps
-Hello Devnet
